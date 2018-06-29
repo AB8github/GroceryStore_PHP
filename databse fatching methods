@@ -1,0 +1,6 @@
+databse fatching methods
+
+mysqli_fatch_array
+mysqli_fatch_row
+mysqli_fatch_object
+mysqli_fatch_assoc
